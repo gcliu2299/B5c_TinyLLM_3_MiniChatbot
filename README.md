@@ -88,7 +88,7 @@ The model is trained using PyTorch with the following settings:
 
 ### Training and Validation Loss
 
-<img width="1200" height="750" alt="loss_curve" src="https://github.com/user-attachments/assets/22e2824e-4839-46da-a0bd-e9282f3a28ba" />
+<img width="1080" height="611" alt="transformer_training_animation_v8_1080p1 (1)" src="https://github.com/user-attachments/assets/48f66a7c-5fc2-4311-a69d-d1f05005d55c" />
 
 The training and validation losses decrease rapidly and converge to relatively low values, demonstrating that the model learns the patterns present in the training data.
 
